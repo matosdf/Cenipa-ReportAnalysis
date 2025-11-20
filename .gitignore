@@ -1,6 +1,5 @@
 # Personalizados
-data/json/simplified/*
-data/json/no_label/*
+data/json/*
 data/pdf/yearly/*
 data/pdf/categorized/*
 
