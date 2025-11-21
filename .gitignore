@@ -3,4 +3,6 @@ data/json/*
 data/pdf/yearly/*
 data/pdf/categorized/*
 data
+.env
+
 
